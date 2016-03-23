@@ -1,2 +1,3 @@
 # hello-world
-Guide repository
+
+Planning to submit this changes into develop branch
